@@ -1,5 +1,7 @@
 # image_picker_crop_compress
 
+![Screenshot_20200130-200049](https://user-images.githubusercontent.com/45082229/73481682-a2973880-439c-11ea-933b-fd5ca2cef907.png)
+
 A new Flutter project.
 
 ## Getting Started
